@@ -1,0 +1,8 @@
+{
+  "name": "Gestion des utilisateurs",
+  "description": "Application Vue.js de gestion des utilisateurs avec API REST (CRUD, recherche, statut actif/inactif et filtrage).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

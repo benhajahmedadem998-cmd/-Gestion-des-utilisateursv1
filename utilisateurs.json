@@ -1,0 +1,22 @@
+{
+  "utilisateurs": [
+    {
+      "id": "jebalia",
+      "nom": "Jebali",
+      "prenom": "Amira",
+      "actif": true
+    },
+    {
+      "id": "mejriy",
+      "nom": "Mejri",
+      "prenom": "Youssef",
+      "actif": false
+    },
+    {
+      "id": "gharbii",
+      "nom": "Gharbi",
+      "prenom": "Inès",
+      "actif": true
+    }
+  ]
+}
